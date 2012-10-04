@@ -22,9 +22,9 @@
 	</organization>
 
 	<scm>
-		<connection>scm:svn:http://svn.openmrs.org/openmrs-modules/newmoduleiddemo/trunk/</connection>
-		<developerConnection>scm:svn:http://svn.openmrs.org/openmrs-modules/newmoduleiddemo/trunk/</developerConnection>
-		<url>http://svn.openmrs.org/openmrs-modules/newmoduleiddemo/trunk/</url>
+		<connection>scm:git@github.com:openmrs/openmrs-module-test-newmoduleiddemo.git</connection>
+		<developerConnection>scm:ggit@github.com:openmrs/openmrs-module-test-newmoduleiddemo.git</developerConnection>
+		<url>scm:git@github.com:openmrs/openmrs-module-test-newmoduleiddemo.git</url>
 	</scm>
 
 	<modules>
